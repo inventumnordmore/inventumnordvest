@@ -1,5 +1,5 @@
 version: STSv1
-mode: enforce
+mode: testing
 max_age: 86400
 mx: inventumnordvest-no.mail.protection.outlook.com
 mx: inventumnm-no02b.mail.protection.outlook.com
